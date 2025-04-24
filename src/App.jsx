@@ -1,4 +1,4 @@
-import About from "./components/about"
+import About from "./components/About"
 import Contact from "./components/Contacts"
 import Education from "./components/Education"
 import Extracurricular from "./components/Extracurricular"
